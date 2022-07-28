@@ -2,6 +2,7 @@
 //    Найдите сумму элементов, стоящих на нечётных позициях. 
 
 
+
 void Print(int[] arr)
 {
     int size = arr.Length;
